@@ -1,0 +1,388 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>スピリチュアルセラピスト chiyo | プレミアム体験会</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;1,300&family=Noto+Serif+JP:wght@200;400;700&family=Parisienne&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --gold: #d4af37;
+            --soft-pink: #fff5f7;
+            --rose-pink: #fbcfe8;
+            --white: #ffffff;
+        }
+        body {
+            font-family: 'Noto Serif JP', serif;
+            color: #444;
+            background-color: var(--white);
+            line-height: 1.8;
+            overflow-x: hidden;
+            word-break: break-all;
+        }
+        .font-eng { font-family: 'Cormorant Garamond', serif; }
+        .font-cursive { font-family: 'Parisienne', cursive; }
+        
+        .bg-pink-grad {
+            background: linear-gradient(135deg, #ffffff 0%, #fff5f7 50%, #fce7f3 100%);
+        }
+
+        .gold-text {
+            background: linear-gradient(to bottom, #d4af37 22%, #f1d592 45%, #d4af37 80%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            font-weight: bold;
+        }
+
+        .btn-gold {
+            background: linear-gradient(135deg, #d4af37 0%, #f1d592 50%, #d4af37 100%);
+            color: white;
+            text-shadow: 0 1px 2px rgba(0,0,0,0.2);
+            box-shadow: 0 10px 20px rgba(212, 175, 55, 0.3);
+            transition: all 0.3s ease;
+        }
+
+        .section-line {
+            width: 40px;
+            height: 1px;
+            background: var(--gold);
+            margin: 20px auto;
+        }
+
+        .floating {
+            animation: floating 3s ease-in-out infinite;
+        }
+        @keyframes floating {
+            0% { transform: translateY(0px); }
+            50% { transform: translateY(-8px); }
+            100% { transform: translateY(0px); }
+        }
+
+        .card-pink {
+            background: rgba(255, 255, 255, 0.95);
+            border: 1px solid rgba(212, 175, 55, 0.2);
+        }
+
+        .gift-img {
+            width: 100%;
+            height: auto;
+            border-radius: 10px;
+            margin-bottom: 10px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+        }
+    </style>
+</head>
+<body class="bg-pink-grad">
+
+    <div class="bg-pink-600 text-white text-center py-2 text-[10px] sm:text-xs font-bold tracking-widest sticky top-0 z-50 px-4">
+        期間限定公開！終了後は自動的に削除されます
+    </div>
+
+    <section class="min-h-screen flex flex-col items-center justify-center text-center px-6 py-12">
+        <div class="animate-fadeIn">
+            <span class="font-cursive text-3xl text-pink-400 mb-2 block">Special Invitation</span>
+            <p class="font-eng tracking-[0.3em] text-gray-400 text-[10px] mb-8 italic">CHIYO SPIRITUAL SALON</p>
+            
+            <h1 class="text-2xl md:text-5xl font-bold leading-relaxed mb-10">
+                周りに振り回される<br>
+                人生を卒業し<br>
+                <span class="gold-text">心とエネルギーを<br>整える</span>
+            </h1>
+            
+            <div class="mb-12 text-gray-600 text-sm md:text-lg space-y-2">
+                <p>本来のあなたを取り戻し</p>
+                <p>理想の現実を</p>
+                <p>驚くスピードで引き寄せる</p>
+            </div>
+
+            <a href="https://lin.ee/9Qi92aw" target="_blank" class="btn-gold px-10 py-4 rounded-full text-md font-bold tracking-widest inline-block floating">
+                プレミアム体験会に申し込む
+            </a>
+            <p class="mt-6 text-[10px] text-gray-400">※マンツーマンのため枠に限りがあります</p>
+        </div>
+    </section>
+
+    <section class="py-20 px-6 max-w-xl mx-auto text-center">
+        <h2 class="text-xl font-bold mb-2 text-gray-700">こんにちは！<br>chiyoです😻</h2>
+        <div class="section-line"></div>
+        
+        <div class="space-y-6 text-sm text-gray-600 leading-loose">
+            <p>この度はプレミアム体験会と</p>
+            <p>豪華特典に</p>
+            <p>興味を持っていただき</p>
+            <p>ありがとうございます♪</p>
+
+            <div class="card-pink p-8 rounded-3xl shadow-sm mt-12">
+                <p class="text-pink-500 font-bold mb-4 text-xs">🎁 公式LINE登録者限定 特典</p>
+                <div class="space-y-1 font-medium text-gray-700">
+                    <p>公式LINEから</p>
+                    <p><span class="text-pink-600 font-bold">『特典』</span>と送ってください！</p>
+                    <br>
+                    <p>登録者特典の</p>
+                    <p>チャクラ診断と</p>
+                    <p>グラウディング音声を</p>
+                    <p>順次 贈らせて頂きます🎁</p>
+                </div>
+            </div>
+
+            <p class="pt-10 font-bold text-gray-800 text-md">
+                そして本日は<br>
+                あなたの人生を大きく動かす<br>
+                特別なご案内を<br>
+                させていただきます✨
+            </p>
+        </div>
+    </section>
+
+    <section class="py-12 px-6">
+        <div class="max-w-sm mx-auto bg-white p-6 rounded-2xl border border-pink-100 text-center shadow-sm">
+            <p class="text-pink-600 font-bold mb-4 text-xs">⚠️ 本題に入る前にお伝えさせてください</p>
+            <div class="text-[11px] text-gray-500 space-y-2 leading-relaxed">
+                <p>今ご覧いただいているこのページは</p>
+                <p>期間限定での公開となります💦</p>
+                <p>終了後は自動的に削除されますので</p>
+                <p>ぜひ最後までご覧ください🙏</p>
+            </div>
+        </div>
+    </section>
+
+    <section class="py-20 px-6">
+        <div class="max-w-xl mx-auto">
+            <div class="text-center mb-12">
+                <p class="font-eng tracking-widest text-gold text-[10px] mb-2 uppercase">My Journey</p>
+                <h2 class="text-xl font-bold">私のこれまで</h2>
+            </div>
+
+            <div class="space-y-10 text-center text-sm text-gray-600 leading-relaxed">
+                <div class="bg-white p-6 rounded-2xl border-l-2 border-gold text-left inline-block w-full shadow-sm">
+                    <p class="font-bold mb-4 text-xs gold-text uppercase">Results</p>
+                    <ul class="space-y-3 text-xs">
+                        <li>・デビューから3年で鑑定実績900件以上</li>
+                        <li>・マルシェは予約や新規で常に満席</li>
+                        <li>・2年間で22名の講座生を輩出</li>
+                        <li>・ワークショップも常に満員御礼</li>
+                    </ul>
+                </div>
+
+                <div class="space-y-6">
+                    <p>でも 実は</p>
+                    <p>デビュー当時の私は</p>
+                    <p>地に足がついていない</p>
+                    <p>いわゆる</p>
+                    <p>ふわスピちゃん🫧でした。</p>
+                </div>
+
+                <div class="text-gray-400 text-xs italic space-y-2">
+                    <p>周りのエネルギーを受けすぎて</p>
+                    <p>体調を崩す😭</p>
+                    <p>人間関係に振り回される🥺</p>
+                    <p>お金の不安が消えない💸</p>
+                    <p>ビジネスもうまくいかない😫</p>
+                    <p>家族にも理解されない🧑‍🧑‍🧒</p>
+                </div>
+
+                <p class="bg-pink-50 p-6 rounded-xl font-medium text-gray-500 italic text-xs">
+                    「こんな不安定な私が<br>セッションしていいの？」<br>
+                    と 自分を責め続けていました💦
+                </p>
+
+                <p>スピリチュアルを<br>学んでいるはずなのに</p>
+                <p>現実に全然<br>整っていなかったんです…</p>
+            </div>
+        </div>
+    </section>
+
+    <section class="py-20 px-6 bg-white">
+        <div class="max-w-xl mx-auto text-center space-y-8">
+            <h3 class="font-bold text-gray-800">そこから私は<br>本気で学び直しました📚</h3>
+            
+            <div class="text-[10px] text-gray-400 space-y-1">
+                <p>ライトワーカーの在り方</p>
+                <p>精神性の土台作り</p>
+                <p>チャクラの整え方</p>
+                <p>エネルギーの扱い方</p>
+                <p>チャネリング</p>
+                <p>現実創造の仕方</p>
+            </div>
+
+            <div class="space-y-4 text-sm text-gray-600 leading-relaxed">
+                <p>すると 少しずつ</p>
+                <p>自分自身が安定し始めました。</p>
+                <p>外側に振り回されなくなり</p>
+                <p>家族の意識が変わり</p>
+                <p>お金が循環し始め</p>
+                <p>思い描く願望が</p>
+                <p>驚くスピードで</p>
+                <p>現実になっていったのです❗️💨</p>
+            </div>
+
+            <div class="p-8 bg-pink-grad rounded-3xl border border-gold shadow-sm">
+                <p class="text-md font-bold gold-text leading-loose">
+                    『✨周りに振り回される<br>人生を卒業するなら<br>
+                    心とエネルギーを<br>整えることが大切✨』
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <section class="py-20 px-6 bg-pink-50">
+        <div class="max-w-sm mx-auto text-center space-y-8">
+            <p class="font-eng text-gold text-xs tracking-widest uppercase">The Event</p>
+            <h2 class="text-xl font-bold italic">【プレミアム体験会】</h2>
+            
+            <div class="bg-white p-8 rounded-3xl border border-pink-100 shadow-sm text-sm text-gray-600 space-y-4">
+                <p>この体験会では</p>
+                <p>チャクラの状態や</p>
+                <p>エネルギーの状態を見ながら</p>
+                <p>あなたがどのように</p>
+                <p>調整していけばいいのか</p>
+                <p>明確化していきます。</p>
+            </div>
+        </div>
+    </section>
+
+    <section class="py-20 px-6">
+        <div class="max-w-sm mx-auto">
+            <div class="text-center mb-10">
+                <h3 class="text-lg font-bold gold-text">超豪華！9大特典</h3>
+                <p class="text-[10px] text-gray-400 mt-2 font-bold italic">体験会参加の方 全員にプレゼント🎁</p>
+            </div>
+
+            <div class="space-y-8">
+                <div class="bg-white p-4 rounded-xl border border-pink-50 text-[11px] shadow-sm">
+                    <img src="IMG_2918.jpeg" alt="チャクラバランスチェックリスト" class="gift-img">
+                    <div class="flex items-center">
+                        <span class="text-gold font-bold mr-3 font-eng">01</span> チャクラバランスチェックリスト
+                    </div>
+                </div>
+                <div class="bg-white p-4 rounded-xl border border-pink-50 text-[11px] shadow-sm">
+                    <img src="IMG_2872.jpeg" alt="グラウディング瞑想音声マニュアル" class="gift-img">
+                    <div class="flex items-center">
+                        <span class="text-gold font-bold mr-3 font-eng">02</span> グラウディング瞑想音声マニュアル
+                    </div>
+                </div>
+                <div class="bg-white p-4 rounded-xl border border-pink-50 text-[11px] shadow-sm">
+                    <img src="IMG_2777.jpeg" alt="インナーチャイルド 癒しのワーク" class="gift-img">
+                    <div class="flex items-center">
+                        <span class="text-gold font-bold mr-3 font-eng">03</span> インナーチャイルド　癒しのワーク
+                    </div>
+                </div>
+                <div class="bg-white p-4 rounded-xl border border-pink-50 text-[11px] shadow-sm">
+                    <img src="IMG_2790.jpeg" alt="ネガティブな潜在意識書き換えワーク" class="gift-img">
+                    <div class="flex items-center">
+                        <span class="text-gold font-bold mr-3 font-eng">04</span> ネガティブな潜在意識書き換えワーク
+                    </div>
+                </div>
+                <div class="bg-white p-4 rounded-xl border border-pink-50 text-[11px] shadow-sm">
+                    <img src="IMG_2764.jpeg" alt="ハイヤーセルフと繋がる呼吸法" class="gift-img">
+                    <div class="flex items-center">
+                        <span class="text-gold font-bold mr-3 font-eng">05</span> ハイヤーセルフと繋がる呼吸法
+                    </div>
+                </div>
+                <div class="bg-white p-4 rounded-xl border border-pink-50 text-[11px] shadow-sm">
+                    <img src="IMG_2589.jpeg" alt="あなたが持つ感覚診断.感覚を鍛える基礎" class="gift-img">
+                    <div class="flex items-center">
+                        <span class="text-gold font-bold mr-3 font-eng">06</span> あなたが持つ感覚診断.感覚を鍛える基礎
+                    </div>
+                </div>
+                <div class="bg-white p-4 rounded-xl border border-pink-50 text-[11px] shadow-sm">
+                    <img src="IMG_2706.jpeg" alt="引き寄せの法則の大原則" class="gift-img">
+                    <div class="flex items-center">
+                        <span class="text-gold font-bold mr-3 font-eng">07</span> 引き寄せの法則の大原則
+                    </div>
+                </div>
+                <div class="bg-white p-4 rounded-xl border border-pink-50 text-[11px] shadow-sm">
+                    <img src="IMG_2661.jpeg" alt="自信のメカニズムと育て方" class="gift-img">
+                    <div class="flex items-center">
+                        <span class="text-gold font-bold mr-3 font-eng">08</span> 自信のメカニズムと育て方
+                    </div>
+                </div>
+                <div class="bg-white p-4 rounded-xl border border-pink-50 text-[11px] shadow-sm">
+                    <img src="IMG_2998.jpeg" alt="自分軸になる生き方のコツ" class="gift-img">
+                    <div class="flex items-center">
+                        <span class="text-gold font-bold mr-3 font-eng">09</span> 自分軸になる生き方のコツ
+                    </div>
+                </div>
+            </div>
+
+            <div class="mt-16 text-center text-[11px] text-gray-500 space-y-4">
+                <p>さらに本気で人生を変えたい方には</p>
+                <p>エネルギー講座のご案内も</p>
+                <p>させていただきます。</p>
+                <p class="text-[10px] italic bg-gray-50 p-4 rounded-lg">
+                    ※セールスが嫌な方は<br>無理におすすめしませんので<br>ご安心ください。
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <section id="line" class="py-20 px-6 bg-pink-grad/30">
+        <div class="max-w-sm mx-auto space-y-6">
+            <div class="bg-white p-6 rounded-2xl border border-pink-100 shadow-sm">
+                <h4 class="font-bold text-pink-600 text-sm mb-4">🌸 大歓迎です</h4>
+                <ul class="space-y-3 text-[11px] text-gray-600">
+                    <li class="flex items-start"><span class="mr-2">✔</span> 本気で変わりたい方</li>
+                    <li class="flex items-start"><span class="mr-2">✔</span> 他人軸を卒業したい方</li>
+                    <li class="flex items-start"><span class="mr-2">✔</span> もう振り回される人生を終わらせたい方</li>
+                </ul>
+            </div>
+            
+            <div class="bg-gray-50/50 p-6 rounded-2xl border border-gray-100 opacity-80">
+                <h4 class="font-bold text-gray-500 text-sm mb-4">ご遠慮ください</h4>
+                <ul class="space-y-3 text-[11px] text-gray-400">
+                    <li class="flex items-start"><span class="mr-2">✖</span> 受ければ勝手に変われると思っている方</li>
+                    <li class="flex items-start"><span class="mr-2">✖</span> 行動しない方</li>
+                    <li class="flex items-start"><span class="mr-2">✖</span> 冷やかしの方</li>
+                </ul>
+            </div>
+            
+            <p class="text-center font-bold text-sm text-gray-700 leading-relaxed pt-8">
+                私も本気で向き合います‼️<br>
+                だからこそ<br>
+                <span class="text-pink-600 underline decoration-gold decoration-2">本気の方だけきてください🌸</span>
+            </p>
+        </div>
+    </section>
+
+    <section class="py-24 px-6 text-center bg-white">
+        <div class="max-w-sm mx-auto space-y-10">
+            <p class="text-xs font-bold text-gray-500">参加費：無料</p>
+            
+            <h2 class="text-xl font-bold leading-relaxed">
+                人生を変えるかどうかは<br>
+                いつかではなく<br>
+                <span class="gold-text text-2xl">今の選択です。</span>
+            </h2>
+
+            <div class="space-y-8 pt-4">
+                <a href="https://lin.ee/9Qi92aw" target="_blank" class="btn-gold px-12 py-5 rounded-full text-lg font-bold tracking-widest inline-block floating">
+                    公式LINEへ進む
+                </a>
+                
+                <div class="p-6 bg-pink-50 rounded-2xl border border-dashed border-gold">
+                    <p class="text-[11px] leading-relaxed">
+                        公式LINEへ進み<br>
+                        <span class="text-pink-600 font-bold text-md italic">『プレミアム体験会』</span><br>
+                        と送ってくださいね♡
+                    </p>
+                </div>
+            </div>
+
+            <p class="text-[11px] text-gray-500 leading-relaxed pt-10">
+                あの頃の私が<br>勇気を出して踏み出したから<br>今があります。<br><br>
+                次は あなたの番です❗️<br><br>
+                体験会でお会いできるのを<br>
+                心から楽しみにしています。
+            </p>
+        </div>
+    </section>
+
+    <footer class="py-10 text-center bg-gray-50 border-t border-gray-100">
+        <p class="font-eng tracking-widest text-[9px] text-gray-400 italic">Spiritual Therapist Chiyo</p>
+    </footer>
+
+</body>
+</html>
